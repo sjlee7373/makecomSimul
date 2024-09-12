@@ -15,7 +15,9 @@ public class SimpleCalculator {
         // 더하기 연산 
         double sum = num1 + num2;
 
-     
+     while(true){
+;;;
+     }
         
         // 결과 출력
         System.out.println("두 숫자의 합은: " + sum); 
